@@ -4,10 +4,10 @@
 <h2>Objetivos Do Projeto 📣</h2>
 <p>Projeto para plataforma Dio, Para o Bootcamp "HTML Web Developer", com Intenção de Aprimorar os Conhecimentos em Desenvolvimento Web.</p>
 
-<strong>Atenção ⚠️<strong>
+<h2>Atenção ⚠️<h2>;
 <p>Este Projeto não tem nenhum fim comercial.<br> O Desenvolvimento Desse Projeto tem Como Fins: Aprofundar Conhecimentos em Desenvolvimento Web e Outras Ferramentas atreladas ao Mesmo.</p>
 
-<strong>Ferramentas Utilizadas 🔧<strong>
+<h2>Ferramentas Utilizadas 🔧<h2>;
 <p>Visual Studio Code.<br>
 Extensão Live Server. (teste de funcionamento)<br>
 Html, Css.<br>
